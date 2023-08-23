@@ -36,7 +36,7 @@ public class NoonSignIn2 {
 	@Test
 	public void test() throws Exception {
 	      String username = "Omarkhafagy69@gmail.com";
-	      String password = "Tonitonichopper_1";
+	      String password = "Nightmare_10";
 	      String shoes = "adidas";
 	      signIn(username, password);
 	      searchForProduct(shoes);     
